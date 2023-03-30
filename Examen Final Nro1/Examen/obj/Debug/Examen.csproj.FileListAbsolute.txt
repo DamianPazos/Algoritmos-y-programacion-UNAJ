@@ -1,0 +1,8 @@
+C:\Users\dpazos\OneDrive - ANDREANI LOGISTICA SA\Documentos\Facultad\Algoritmos y programacion\Examen Final Nro1\Examen\bin\Debug\Examen.exe.config
+C:\Users\dpazos\OneDrive - ANDREANI LOGISTICA SA\Documentos\Facultad\Algoritmos y programacion\Examen Final Nro1\Examen\bin\Debug\Examen.exe
+C:\Users\dpazos\OneDrive - ANDREANI LOGISTICA SA\Documentos\Facultad\Algoritmos y programacion\Examen Final Nro1\Examen\bin\Debug\Examen.pdb
+C:\Users\dpazos\OneDrive - ANDREANI LOGISTICA SA\Documentos\Facultad\Algoritmos y programacion\Examen Final Nro1\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\dpazos\OneDrive - ANDREANI LOGISTICA SA\Documentos\Facultad\Algoritmos y programacion\Examen Final Nro1\Examen\obj\Debug\Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\dpazos\OneDrive - ANDREANI LOGISTICA SA\Documentos\Facultad\Algoritmos y programacion\Examen Final Nro1\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\dpazos\OneDrive - ANDREANI LOGISTICA SA\Documentos\Facultad\Algoritmos y programacion\Examen Final Nro1\Examen\obj\Debug\Examen.exe
+C:\Users\dpazos\OneDrive - ANDREANI LOGISTICA SA\Documentos\Facultad\Algoritmos y programacion\Examen Final Nro1\Examen\obj\Debug\Examen.pdb

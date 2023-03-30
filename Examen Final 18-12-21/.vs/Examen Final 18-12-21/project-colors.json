@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f6a4060-50ab-4b6c-9d21-fb69491d8205": {
+      "ProjectGuid": "0f6a4060-50ab-4b6c-9d21-fb69491d8205",
+      "DisplayName": "Oficina",
+      "ColorIndex": 0
+    },
+    "967bdfe9-b07b-4370-9c89-3870e0b4959b": {
+      "ProjectGuid": "967bdfe9-b07b-4370-9c89-3870e0b4959b",
+      "DisplayName": "Examen",
+      "ColorIndex": 1
+    },
+    "c575925b-0b79-4a67-bd0a-4678ea23286b": {
+      "ProjectGuid": "c575925b-0b79-4a67-bd0a-4678ea23286b",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
